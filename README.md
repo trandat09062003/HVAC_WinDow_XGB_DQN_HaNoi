@@ -1,13 +1,6 @@
 # HVAC Window XGB-DQN Hanoi Climate Adaptation
 
-**Author**: [Trần Đạt](https://github.com/trandat09062003)
 
-
-
-Results:
-<img width="1345" height="900" alt="image" src="https://github.com/user-attachments/assets/04ad206b-cac1-4e41-a47c-c6a7ad3f7208" />
-
-<img width="757" height="92" alt="image" src="https://github.com/user-attachments/assets/8b085615-50fd-44d6-9146-7b64fa7905d9" />
 
 ## Hướng dẫn vận hành
 
